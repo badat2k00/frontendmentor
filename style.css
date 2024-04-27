@@ -28,10 +28,12 @@ img{
 p {
   font-size: 15px;
   font-weight: 400;
+  color:hsl(220, 15%, 55%)
 }
 
 h4{
   font-size: 21px;
+  color: hsl(218, 44%, 22%)
 }
 .detail{
   padding:0 10px;
